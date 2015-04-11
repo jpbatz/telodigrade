@@ -4,7 +4,7 @@ web portfolio website
 # url
 http://telodigrade.com
 
-# what is a "telodigrade"??
+# what is a "telodigrade"???
 
 "telodigrade" is a combination of two fascinations i have to remind me of the evidence that there is still much to learn about our existence and universe.
 
