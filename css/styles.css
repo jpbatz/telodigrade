@@ -7,7 +7,6 @@ html {
 }
 
 body {
-    color: #F8F7C9;
     font-family: 'Open Sans', sans-serif;
     position: relative;
 }
@@ -17,10 +16,17 @@ header {
     text-align: center;
 }
 
+h4 {
+    margin-bottom: 0px;
+    color: #726C59;
+    font-style: italic;
+    font-weight: 300;
+}
+
 h2 {
+    margin-top: 0px;
     color: #726C59;
     font-weight: 400;
-    text-align: center;
 }
 
 #menu-div {
