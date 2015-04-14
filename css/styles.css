@@ -134,6 +134,10 @@ h1 {
     text-decoration: none;
 }
 
+#spacer {
+    visibility: hidden;
+}
+
 footer {
     height: auto;
     width: 100%;
